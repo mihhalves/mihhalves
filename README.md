@@ -1,12 +1,12 @@
-## Oiii eu sou a Michelle!
+Olá, sou a Michelle! 👋
+Sou apaixonada por tecnologia e desafios que me permitem crescer e aprender continuamente. Aqui você encontrará um pouco mais sobre mim e minha jornada no mundo da programação.
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on at Intelie
-- 🌱 I’m currently learning React
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: Girls just wanna have fun
+🧠 Atualmente explorando: React e Javascript
+🌱 Adoro aprender e compartilhar conhecimento com a comunidade
+🎨 Curiosa por design de interfaces e experiências de usuário
+🤖 Interesses especiais: Data visualization e Soluções criativas para problemas complexos
+🌟 Pronouns: She/Her
+🌍 Além da tecnologia, adoro conhecer novos lugares e culturas
 
 <div align="center">
   <a href="https://github.com/mihhalves">
